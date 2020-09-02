@@ -1,0 +1,39 @@
+F:\Users\Administrador\Documents\Programming Projects\RequerimientosBP_0.5\MixMVCandWebForms\Backend\bin\Debug\Backend.dll.config
+F:\Users\Administrador\Documents\Programming Projects\RequerimientosBP_0.5\MixMVCandWebForms\Backend\bin\Debug\Backend.dll
+F:\Users\Administrador\Documents\Programming Projects\RequerimientosBP_0.5\MixMVCandWebForms\Backend\bin\Debug\Backend.pdb
+F:\Users\Administrador\Documents\Programming Projects\RequerimientosBP_0.5\MixMVCandWebForms\Backend\bin\Debug\EntityFramework.dll
+F:\Users\Administrador\Documents\Programming Projects\RequerimientosBP_0.5\MixMVCandWebForms\Backend\bin\Debug\EntityFramework.SqlServer.dll
+F:\Users\Administrador\Documents\Programming Projects\RequerimientosBP_0.5\MixMVCandWebForms\Backend\bin\Debug\EntityFramework.xml
+F:\Users\Administrador\Documents\Programming Projects\RequerimientosBP_0.5\MixMVCandWebForms\Backend\bin\Debug\EntityFramework.SqlServer.xml
+F:\Users\Administrador\Documents\Programming Projects\RequerimientosBP_0.5\MixMVCandWebForms\Backend\obj\Debug\Backend.csproj.CopyComplete
+F:\Users\Administrador\Documents\Programming Projects\RequerimientosBP_0.5\MixMVCandWebForms\Backend\obj\Debug\Backend.dll
+F:\Users\Administrador\Documents\Programming Projects\RequerimientosBP_0.5\MixMVCandWebForms\Backend\obj\Debug\Backend.pdb
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Backend.dll.config
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Backend.dll
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Backend.pdb
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\EntityFramework.dll
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\EntityFramework.xml
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\obj\Debug\Backend.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\obj\Debug\Backend.csproj.CopyComplete
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\obj\Debug\Backend.dll
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\obj\Debug\Backend.pdb
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Core.dll
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Core.pdb
+C:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Core.dll.config
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Backend.dll.config
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Backend.dll
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Backend.pdb
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Core.dll
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\EntityFramework.dll
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Core.pdb
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\Core.dll.config
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\EntityFramework.xml
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\obj\Debug\Backend.csprojAssemblyReference.cache
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\obj\Debug\Backend.csproj.CopyComplete
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\obj\Debug\Backend.dll
+E:\Users\Ariel\Documents\GitHub\RazorWebForm\RequerimientosPro\Backend\obj\Debug\Backend.pdb
