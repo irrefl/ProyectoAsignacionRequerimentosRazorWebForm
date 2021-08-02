@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-
+//this CODE allow me to use Razor pagaes an WebAPI with WinForm.
 namespace WebForm.Controllers
 {
   public class RazorController : Controller
